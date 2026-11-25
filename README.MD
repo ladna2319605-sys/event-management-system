@@ -10,7 +10,7 @@ EventHub is a complete web application built with **Django** for managing events
 5. **Cabdikhaliq Maxamuud Japane** — Events CRUD Operations, Search & Category Filtering, & Documentation
 
 ## How to Run Locally
-1. Clone the repository: `git clone https://github.com`
+ 1. Clone the repository: `git clone https://github.com`
 2. Activate virtual environment: `venv\Scripts\activate`
 3. Run migrations: `python manage.py migrate`
 4. Start server: `python manage.py runserver`
