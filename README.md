@@ -56,3 +56,10 @@ This file contains:
 - Template settings.
 - Static files configuration.
 - Allowed hosts.
+## URL Routing
+
+The project uses URL routing to connect browser requests to Django views.
+
+- `config/urls.py` contains the main URL configuration.
+- `events/urls.py` contains the event application routes.
+- `views.py` handles requests and returns responses.
