@@ -45,3 +45,14 @@ http://127.0.0.1:8000/
 Project Purpose
 
 The Event Management System is designed to organize and manage events and provide event-related information.
+## Django Configuration
+
+The Django project configuration is managed through `config/settings.py`.
+
+This file contains:
+- Installed applications.
+- Middleware configuration.
+- Database settings.
+- Template settings.
+- Static files configuration.
+- Allowed hosts.
